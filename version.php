@@ -30,5 +30,5 @@ $plugin->release = '3.1.0.0 (Build: 20160720)';
 $plugin->component = 'block_elisdashboard';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = array(
-    'local_elisprogram' => 2016052300
+    'local_elisprogram' => 2020122200
 );
